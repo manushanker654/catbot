@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Itsmebasil8/catboz"
+    "url": "git+https://github.com/manushanker654/catboz"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "basilser / @karthik-terror-boy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Itsmebasil8/catboz/issues"
+    "url": "https://github.com/manushanker654/catboz/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
